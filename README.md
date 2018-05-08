@@ -1,6 +1,8 @@
 # Russian Roulette
 The Russian Roulette game for Linux Users / Server Admins
 
+**Version: 1.0**
+
 ## How to play
 ```
 $ sudo python3 russian_roulette.py
