@@ -3,6 +3,9 @@ The Russian Roulette game for Linux Users / Server Admins
 
 **Version: 1.0**
 
+
+![screenshot_20180508_181201](https://user-images.githubusercontent.com/21986859/39785760-5bfaa022-52eb-11e8-8008-77bb5666fbff.png)
+
 ## How to play
 ```
 $ sudo python3 russian_roulette.py
